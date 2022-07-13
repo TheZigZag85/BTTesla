@@ -5,7 +5,7 @@
 <!-- PROJE LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sirincay/TeslaGameV1">
+  <a href="https://github.com/sirincay/TheZigZag95">
     <img src="img/tesla.png" alt="Logo" width="500" height="320">
   </a>
 
@@ -13,7 +13,7 @@
 
   <p align="center">
     <b>Merhaba, TeslaGameV1 Projesi ile Karşınızdayız. Bot 1 Yıldan Fazladır Telegram da Aktif Olarak<br/>Kullanıcılara Oyun Konusun da kolaylık Sağlıyor
-Şuan Kullanılan <a href="https://t.me/TeslaGameBot" >@TeslaGameBot</a>'un <br/>
+Şuan Kullanılan <a href="https://t.me/TheZigZag85" >@TeslaGameBot</a>'un <br/>
 Eski Alt Versiyon Projesi GitHub'da Kullanıcılara Açık Sunuldu.</b>
 <br/><br/>
 <strong><a href="https://telegra.ph/TeslaGame-Türkçe-Oyun-Rehberi-05-29">Dökümanı Okuyun</a></strong>
